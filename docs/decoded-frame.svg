@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 480" font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="1180" height="480" fill="#ffffff"/>
+<text x="40" y="30" font-size="16" font-weight="600" fill="#1f2328">One decoded frame: controller sends 0x11, day latch function on (jumper TGF fitted)</text>
+<text x="40" y="50" font-size="12" fill="#57606a">Drawn from the real capture, frame starts at t = 9.1665 s. Every edge and every level below is measured.</text>
+<line x1="159.4" y1="70" x2="159.4" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="187.1" y1="70" x2="187.1" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="214.7" y1="70" x2="214.7" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="242.3" y1="70" x2="242.3" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="269.9" y1="70" x2="269.9" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="297.5" y1="70" x2="297.5" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="325.2" y1="70" x2="325.2" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="352.8" y1="70" x2="352.8" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="380.4" y1="70" x2="380.4" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="408.0" y1="70" x2="408.0" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="435.6" y1="70" x2="435.6" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="463.3" y1="70" x2="463.3" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="490.9" y1="70" x2="490.9" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="518.5" y1="70" x2="518.5" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="546.1" y1="70" x2="546.1" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="573.8" y1="70" x2="573.8" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="601.4" y1="70" x2="601.4" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="629.0" y1="70" x2="629.0" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="656.6" y1="70" x2="656.6" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="684.2" y1="70" x2="684.2" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="711.9" y1="70" x2="711.9" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="739.5" y1="70" x2="739.5" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="767.1" y1="70" x2="767.1" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="794.7" y1="70" x2="794.7" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="822.4" y1="70" x2="822.4" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="850.0" y1="70" x2="850.0" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="877.6" y1="70" x2="877.6" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="905.2" y1="70" x2="905.2" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="932.8" y1="70" x2="932.8" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="960.5" y1="70" x2="960.5" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="988.1" y1="70" x2="988.1" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="1015.7" y1="70" x2="1015.7" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="1043.3" y1="70" x2="1043.3" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="1070.9" y1="70" x2="1070.9" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<line x1="1098.6" y1="70" x2="1098.6" y2="250" stroke="#e3e6ea" stroke-width="1"/>
+<text x="106" y="107" font-size="12" font-weight="600" fill="#1f2328" text-anchor="end">Bus</text>
+<path d="M118.0,126.0 L159.4,126.0 L159.4,80.0 L215.2,80.0 L215.2,126.0 L244.7,126.0 L244.7,80.0 L271.0,80.0 L271.0,126.0 L300.5,126.0 L300.5,80.0 L326.8,80.0 L326.8,126.0 L381.7,126.0 L381.7,80.0 L438.3,80.0 L438.3,126.0 L467.8,126.0 L467.8,80.0 L494.0,80.0 L494.0,126.0 L523.6,126.0 L523.6,80.0 L549.8,80.0 L549.8,126.0 L604.8,126.0 L604.8,80.0 L635.9,80.0 L635.9,126.0 L660.5,126.0 L660.5,80.0 L691.8,80.0 L691.8,126.0 L716.3,126.0 L716.3,80.0 L772.9,80.0 L772.9,126.0 L827.9,126.0 L827.9,80.0 L884.4,80.0 L884.4,126.0 L914.0,126.0 L914.0,80.0 L940.2,80.0 L940.2,126.0 L969.7,126.0 L969.7,80.0 L996.0,80.0 L996.0,126.0 L1025.5,126.0 L1025.5,80.0 L1051.8,80.0 L1051.8,126.0 L1132.2,126.0 L1132.2,80.0 L1140.0,80.0" fill="none" stroke="#0969da" stroke-width="2"/>
+<text x="106" y="173" font-size="12" font-weight="600" fill="#1f2328" text-anchor="end">Ctrl TX</text>
+<path d="M118.0,192.0 L159.3,192.0 L159.3,146.0 L214.2,146.0 L214.2,192.0 L244.6,192.0 L244.6,146.0 L269.9,146.0 L269.9,192.0 L300.3,192.0 L300.3,146.0 L325.7,146.0 L325.7,192.0 L381.5,192.0 L381.5,146.0 L437.3,146.0 L437.3,192.0 L467.6,192.0 L467.6,146.0 L493.0,146.0 L493.0,192.0 L523.4,192.0 L523.4,146.0 L548.8,146.0 L548.8,192.0 L604.6,192.0 L604.6,146.0 L634.9,146.0 L634.9,192.0 L660.3,192.0 L660.3,146.0 L690.7,146.0 L690.7,192.0 L716.2,192.0 L716.2,146.0 L771.9,146.0 L771.9,192.0 L827.7,192.0 L827.7,146.0 L883.5,146.0 L883.5,192.0 L913.8,192.0 L913.8,146.0 L939.2,146.0 L939.2,192.0 L969.6,192.0 L969.6,146.0 L995.0,146.0 L995.0,192.0 L1025.3,192.0 L1025.3,146.0 L1050.7,146.0 L1050.7,192.0 L1140.0,192.0" fill="none" stroke="#8250df" stroke-width="2"/>
+<circle cx="200.9" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="228.5" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="256.1" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="283.7" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="311.4" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="339.0" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="366.6" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="394.2" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="421.8" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="449.5" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="477.1" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="504.7" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="532.3" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="559.9" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="587.6" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="615.2" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="642.8" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="670.4" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="698.1" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="725.7" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="753.3" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="780.9" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="808.5" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="836.2" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="863.8" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="891.4" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="919.0" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="946.6" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="974.3" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="1001.9" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="1029.5" cy="80.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<circle cx="1057.1" cy="126.0" r="1.8" fill="#1f2328" opacity="0.55"/>
+<text x="106" y="238" font-size="11" fill="#57606a" text-anchor="end">sampled at</text>
+<text x="106" y="252" font-size="11" fill="#57606a" text-anchor="end">bit centres</text>
+<text x="122.0" y="212" font-size="11" fill="#57606a">Ctrl TX carries the controller’s own drive, so it follows the data. Only its state at the start bit is used, to tell who is talking.</text>
+<text x="106" y="286" font-size="12" fill="#57606a" text-anchor="end">Bits</text>
+<text x="106" y="318" font-size="12" fill="#57606a" text-anchor="end">Line data</text>
+<text x="106" y="350" font-size="12" fill="#57606a" text-anchor="end">Fields</text>
+<text x="106" y="382" font-size="12" fill="#57606a" text-anchor="end">Messages</text>
+<text x="106" y="414" font-size="12" fill="#57606a" text-anchor="end">Direction</text>
+<rect x="159.4" y="268" width="27.6" height="26" rx="4" fill="#eef2f6" stroke="#cbd5e1" stroke-width="0.8"/>
+<text x="173.2" y="286" font-size="11"  fill="#1f2328" text-anchor="middle">Start</text>
+<rect x="1070.9" y="268" width="27.6" height="26" rx="4" fill="#eef2f6" stroke="#cbd5e1" stroke-width="0.8"/>
+<text x="1084.8" y="286" font-size="11"  fill="#1f2328" text-anchor="middle">Stop</text>
+<rect x="187.1" y="300" width="883.9" height="26" rx="4" fill="#dbeafe" stroke="#cbd5e1" stroke-width="0.8"/>
+<text x="629.0" y="318" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">Line data: 5656A655</text>
+<rect x="187.1" y="332" width="441.9" height="26" rx="4" fill="#dcfce7" stroke="#cbd5e1" stroke-width="0.8"/>
+<text x="408.0" y="350" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">Code: 0x11</text>
+<rect x="629.0" y="332" width="441.9" height="26" rx="4" fill="#dcfce7" stroke="#cbd5e1" stroke-width="0.8"/>
+<text x="850.0" y="350" font-size="12" font-weight="600" fill="#1a7f37" text-anchor="middle">CRC 0xD0 ok</text>
+<rect x="187.1" y="364" width="883.9" height="26" rx="4" fill="#fef3c7" stroke="#cbd5e1" stroke-width="0.8"/>
+<text x="629.0" y="382" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">0x11: Cmd: day latch on (TGF)</text>
+<rect x="159.4" y="396" width="939.1" height="26" rx="4" fill="#f3e8ff" stroke="#cbd5e1" stroke-width="0.8"/>
+<text x="629.0" y="414" font-size="12"  fill="#1f2328" text-anchor="middle">CTRL transmits  (Ctrl TX high at the start bit)</text>
+<text x="40" y="464" font-size="11" fill="#57606a">34 bit times at 2000 baud = 17.0 ms  ·  32 line bits Manchester coded = 16 payload bits  ·  CRC-8 poly 0x1D, init 0x00  ·  Manchester valid</text>
+</svg>

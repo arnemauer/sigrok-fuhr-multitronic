@@ -1,0 +1,4 @@
+# Keep everything LF in the repository, whatever the checkout platform does.
+* text=auto eol=lf
+*.png binary
+*.svg text
