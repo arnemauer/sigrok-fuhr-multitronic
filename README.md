@@ -1,7 +1,7 @@
 # sigrok-fuhr-multitronic
 
 A [sigrok / PulseView](https://sigrok.org) protocol decoder for the serial bus
-between a **Fuhr multitronic** electronic multi-point lock and its controller.
+between a **Fuhr multitronic** electronic multi-point lock (and white-label locks such as the HMB Motortronic) and its controller.
 
 The protocol is not published by the manufacturer. It was reverse engineered
 from 30 logic-analyser captures of a working installation; this decoder turns
