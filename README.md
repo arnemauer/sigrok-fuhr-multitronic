@@ -47,7 +47,7 @@ Both paths are covered by the test suite.
 | Option | Default | Notes |
 |---|---|---|
 | Bit rate | `2000` | baud |
-| Bus polarity | `idle-low` | matches the captures; the start bit is a physical high |
+| Bus polarity | `idle-low` | matches the captures, which were taken at the controller's PIC input. Flip to `idle-high` if you probe somewhere that inverts |
 | Manchester mapping | `10=1` | flip to `01=1` if a future capture disagrees |
 | Annotate individual line bits | `no` | turn on to inspect the raw Manchester pairs |
 
@@ -75,7 +75,12 @@ Both paths are covered by the test suite.
        └───────────────┴───────────────┘
 ```
 
-* **2000 baud**, idle low, inverted (a physical high is a logical 0).
+* **2000 baud**, inverted: a high is a logical 0, and the line rests low
+  between frames. Those levels are as seen at the **controller's PIC input**,
+  where the captures were taken — an input stage that brings 12 V down to
+  logic level is often inverting, so the 12 V terminal itself may rest high
+  instead. Set the *Bus polarity* option to match wherever you probe; nothing
+  else in the decoding depends on it.
 * The 32 "data bits" carry only **16 bits of information**. A quick check:
   every hex nibble of a valid frame is `5`, `6`, `9` or `A` — the only nibbles
   made of `01`/`10` pairs.
